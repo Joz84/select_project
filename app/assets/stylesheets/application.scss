@@ -11,3 +11,12 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+.project {
+    position: relative;
+    a {
+        position: absolute;
+        top: 15px;
+        right: 15px;
+    }
+}
